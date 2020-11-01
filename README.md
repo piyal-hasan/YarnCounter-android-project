@@ -1,4 +1,4 @@
-# It is desktop application to calculate the quality of yarn in Textile sector.
+# It is android application to calculate the quality of yarn in Textile sector.
 ### Features:
       - Calculate the Count
       - Convert the Count
